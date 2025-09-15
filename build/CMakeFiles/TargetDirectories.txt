@@ -1,0 +1,8 @@
+/Users/danilbondarenko/rpn_calculator/build/CMakeFiles/rpn_calculator.dir
+/Users/danilbondarenko/rpn_calculator/build/CMakeFiles/test.dir
+/Users/danilbondarenko/rpn_calculator/build/CMakeFiles/edit_cache.dir
+/Users/danilbondarenko/rpn_calculator/build/CMakeFiles/rebuild_cache.dir
+/Users/danilbondarenko/rpn_calculator/build/tests/CMakeFiles/rpn_tests.dir
+/Users/danilbondarenko/rpn_calculator/build/tests/CMakeFiles/test.dir
+/Users/danilbondarenko/rpn_calculator/build/tests/CMakeFiles/edit_cache.dir
+/Users/danilbondarenko/rpn_calculator/build/tests/CMakeFiles/rebuild_cache.dir

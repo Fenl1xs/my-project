@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/danilbondarenko/rpn_calculator/build/cmake_install.cmake",
+		"/Users/danilbondarenko/rpn_calculator/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

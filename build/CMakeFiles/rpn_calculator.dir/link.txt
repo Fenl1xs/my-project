@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rpn_calculator.dir/src/main.cpp.o CMakeFiles/rpn_calculator.dir/src/rpn.cpp.o -o rpn_calculator

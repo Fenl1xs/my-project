@@ -1,0 +1,35 @@
+Start testing: Sep 15 14:20 MSK
+----------------------------------------------------------
+1/1 Testing: rpn_tests
+1/1 Test: rpn_tests
+Command: "/Users/danilbondarenko/rpn_calculator/build/tests/rpn_tests"
+Directory: /Users/danilbondarenko/rpn_calculator/build/tests
+"rpn_tests" start time: Sep 15 14:20 MSK
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4990-9ldiyw/googletest-1.17.0/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from RPNTest
+[ RUN      ] RPNTest.BasicAddition
+[       OK ] RPNTest.BasicAddition (0 ms)
+[ RUN      ] RPNTest.ComplexExpression
+[       OK ] RPNTest.ComplexExpression (0 ms)
+[ RUN      ] RPNTest.DivisionByZero
+[       OK ] RPNTest.DivisionByZero (0 ms)
+[ RUN      ] RPNTest.InvalidExpression
+[       OK ] RPNTest.InvalidExpression (0 ms)
+[----------] 4 tests from RPNTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"rpn_tests" end time: Sep 15 14:20 MSK
+"rpn_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 14:20 MSK
