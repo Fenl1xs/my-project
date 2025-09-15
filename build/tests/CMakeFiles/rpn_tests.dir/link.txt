@@ -1,1 +1,1 @@
-/usr/bin/c++ -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rpn_tests.dir/test_rpn.cpp.o CMakeFiles/rpn_tests.dir/__/src/rpn.cpp.o -o rpn_tests  /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rpn_tests.dir/test_rpn.cpp.o CMakeFiles/rpn_tests.dir/__/src/rpn.cpp.o -o rpn_tests  /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a
